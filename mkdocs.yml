@@ -41,25 +41,25 @@ theme: # Тема сайта, информация о ее параметрах
 nav: # Структура сайта
     - Главная страница: index.md
     - CRM: 
-      - crm/index.md
+      - CRM: crm/index.md
       - CRM GetCourse — современный инструмент управления в онлайн-образовании: crm/crm.md
       - Сегменты по пользователям: crm/users.md
       - Сегменты по заказам: crm/orders.md
     - LMS:
-      - lms/index.md
+      - LMS: lms/index.md
       - Как добавить свой курс на GetCourse: lms/addcourse.md
       - Как настроить доступ к курсу: lms/access.md
     - Вебинары:
-      - webinar/index.md
+      - Вебинары: webinar/index.md
       - Вебинары на GetCourse: webinar/webinar.md
       - Автовебинары на GetCourse: webinar/autoweb.md
+    - Прием платежей:
+      - Прием платежей: payment/index.md
+      - Get Модуль: payment/getmodule.md
     - Интеграции:
-      - integration/index.md
+      - Интеграции: integration/index.md
       - Как подключить Telegram: integration/tg.md
       - Как подключить WhatsApp: integration/wa.md
-    - Прием платежей:
-      - payment/index.md
-      - Get Модуль: payment/getmodule.md
 
 #extra:
   #social: # Ссылки на соц.сети
