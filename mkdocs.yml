@@ -41,12 +41,12 @@ theme: # Тема сайта, информация о ее параметрах
 nav: # Структура сайта
     - Главная страница: index.md
     - CRM: 
-      - CRM: crm/index.md
+      - CRM-система: crm/index.md
       - CRM GetCourse — современный инструмент управления в онлайн-образовании: crm/crm.md
       - Сегменты по пользователям: crm/users.md
       - Сегменты по заказам: crm/orders.md
     - LMS:
-      - LMS: lms/index.md
+      - Обучение: lms/index.md
       - Как добавить свой курс на GetCourse: lms/addcourse.md
       - Как настроить доступ к курсу: lms/access.md
     - Вебинары:
